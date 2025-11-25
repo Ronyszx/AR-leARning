@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="MagneticField" size="5.000000 2.812500" />
+    <ImageTarget name="SteamEngine" size="5.000000 3.345000" />
+    <ImageTarget name="Earth" size="5.000000 2.858050" />
+    <ImageTarget name="SolarSystem" size="5.000000 2.812121" />
+  </Tracking>
+</QCARConfig>
